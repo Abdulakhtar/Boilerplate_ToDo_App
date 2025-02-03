@@ -74,3 +74,19 @@ Navigate to _etc/docker_ folder and run the `run-docker.ps1` script. The script 
 You can see the following resources to learn more about your solution and the ABP Framework:
 
 * [Application (Single Layer) Startup Template](https://abp.io/docs/latest/startup-templates/application-single-layer/index)
+
+## Conclusion
+ToDO App is a generic  boilerplate application that is build using code first approach. Once you have managed to install and run boilerplate template on your localhost using the official documentation provided above, use code first approach to add your entities, migrate and update database to start working on changes you want to make. Don't forget to change the connection string. Once everything is done, create your controller and adjust your view as you like by coding. 
+This project provides an excellent starting point for developers looking to use boilerplate templates in their own applications.
+
+## Contributing
+If you'd like to contribute to this project, feel free to fork the repository and submit a pull request with your changes in a new branch. Please follow the coding guidelines and ensure that tests are added for new features.
+
+### License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+### NOTE:
+
+Feel free to customize this README file further to suit your project's specific requirements or add any additional information you find necessary for my _**Imporvement**_
+
