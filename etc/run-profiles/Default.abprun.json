@@ -1,0 +1,12 @@
+﻿{
+  "applications": {
+    "TodoApp": {
+      "type": "dotnet-project",
+      "launchUrl": "https://localhost:44320",
+      "path": "../../TodoApp/TodoApp.csproj",
+      "execution": {
+        "order": 0
+      }
+    }
+  }
+}
